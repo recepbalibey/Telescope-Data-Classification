@@ -1,5 +1,7 @@
 # Telescope-Data-Classification
 Telescope Data Classification: From Classical ML to Neural Network Tuning
+You can run the code in Google colab, make sure to add data from left section. 
+Or use your local jupyter notebook.
 
 # Cherenkov Telescope Particle Classification
 The link: https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
